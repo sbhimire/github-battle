@@ -1,1 +1,1 @@
-# github-battle
+# github-repos
