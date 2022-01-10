@@ -6,3 +6,5 @@ Code repo for the "Github Battle" app built as part of the React course project 
 
 You can try the app at https://sbhimire-github.netlify.app/
 
+![Demo](demo.gif)
+
